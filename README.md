@@ -3,3 +3,4 @@
 -OS
 -MagicEden
 -rbtn
+-rubiscore
