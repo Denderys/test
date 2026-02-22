@@ -4,3 +4,4 @@
 -MagicEden
 -rbtn
 -rubiscore
+-humster
