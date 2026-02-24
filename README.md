@@ -30,3 +30,6 @@ echo "Starting node..."
 docker compose up -d
 
 echo "Tempo node installation completed!"
+
+#serv param
+2gb ram
