@@ -41,3 +41,4 @@ echo "Tempo node installation completed!"
 
 #serv param
 2gb ram
+Hetzner & contabo
