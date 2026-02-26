@@ -43,6 +43,10 @@ echo "Tempo node installation completed!"
 2gb ram
 Hetzner & contabo
 
+## stock
+googl 312.5
+
+
 
 918 - 25.02 16.29
 
