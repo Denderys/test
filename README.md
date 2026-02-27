@@ -42,7 +42,7 @@ echo "Tempo node installation completed!"
 #serv param
 2gb ram
 Hetzner & contabo
-
+## looking forward to growing with Axpha
 ## stock
 googl 312.5
 
