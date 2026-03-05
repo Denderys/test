@@ -145,3 +145,21 @@ contract TxHistoryNFT is ERC721, Ownable {
 }
 ============================
 
+
+GMStreak test 
+
+function gm() public {
+
+    require(block.timestamp > lastGM[msg.sender] + 12 hours, "Already said GM");
+
+    if (block.timestamp <= lastGM[msg.sender] + 36 hours) {
+        streak[msg.sender] += 1;
+    } else {
+        streak[msg.sender] = 1;
+    }
+
+    lastGM[msg.sender] = block.timestamp;
+    totalGM += 1;
+
+    emit GM(msg.sender, streak[msg.sender], block.timestamp);
+}
