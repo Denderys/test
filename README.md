@@ -163,3 +163,6 @@ function gm() public {
 
     emit GM(msg.sender, streak[msg.sender], block.timestamp);
 }
+
+
+tempo loss
